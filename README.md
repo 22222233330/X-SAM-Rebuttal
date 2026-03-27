@@ -1,7 +1,6 @@
 # X-SAM-Rebuttal
 Supplementary materials and experimental results for paper
 ### Hessian Spectrum Investigation
-To further validate the flatness-seeking capability of our method, we visualize the Hessian eigenvalue spectrum as follows:
 
 ![Hessian Spectrum](./assets/7741a187f24a52bedbee4ae074cee583.png)
 
