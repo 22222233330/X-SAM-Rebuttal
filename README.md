@@ -4,4 +4,4 @@ Supplementary materials and experimental results for paper
 
 ![Hessian Spectrum](./assets/7741a187f24a52bedbee4ae074cee583.png)
 
-*Figure 1: Comparison of the Hessian eigenvalue spectrum. Our method effectively suppresses the dominant eigenvalues, leading to a flatter local minimum.*
+
