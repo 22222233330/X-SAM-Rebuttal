@@ -1,8 +1,8 @@
 # X-SAM-Rebuttal
 
 
-📄 ** [Click here to read our ICML 2026 paper: X-SAM](./icml2026_XSAM%20main%20text.pdf)
-📄 ** [Click here to read the Appendix](./icml2026_XSAM.pdf)
+📄 ** [Click here to read our ICML 2026 paper: X-SAM](./icml2026_XSAMmanuscript.pdf)
+📄 ** [Click here to read the Appendix](./icml2026_XSAMappendix.pdf)
 
 Supplementary materials and experimental results for paper
 ### Hyperparameter Sensitivity Investigation of $\alpha$
